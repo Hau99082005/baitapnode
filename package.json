@@ -30,8 +30,15 @@
     },
     "homepage": "https://github.com/Hau99082005/nodejs_blog#readme",
     "dependencies": {
+        "bcrypt": "^5.1.1",
+        "bcryptjs": "^2.4.3",
+        "ejs": "^3.1.10",
         "express": "^4.21.2",
         "express-handlebars": "^8.0.1",
+        "express-session": "^1.18.1",
+        "mysql": "^2.18.1",
+        "mysql2": "^3.11.5",
+        "pug": "^3.0.3",
         "sass": "^1.82.0"
     },
     "devDependencies": {
